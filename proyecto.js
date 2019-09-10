@@ -3,8 +3,7 @@ carrera {
     "Materia": [
         "Nombre": "Matematicas",
         "Profesor": [
-            "Nombre": "Donald Trump",
-             
+            "Nombre": "Donald Trump",  
             "Calificacion": [1,2,3
             ]
         ]
