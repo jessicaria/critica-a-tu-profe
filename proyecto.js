@@ -4,6 +4,7 @@ carrera {
         "Nombre": "Nombre",
         "Profesor": [
             "Nombre": "Nombre",
+            
             "Calificacion": [
     
             ]
