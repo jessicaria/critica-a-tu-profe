@@ -1,12 +1,11 @@
 carrera {
-    "Nombre carrera"; "Nombre",
+    "Nombre carrera"; "ISC",
     "Materia": [
-        "Nombre": "Nombre",
+        "Nombre": "Matematicas",
         "Profesor": [
-            "Nombre": "Nombre",
+            "Nombre": "Donald Trump",
              
-            "Calificacion": [
-    
+            "Calificacion": [1,2,3
             ]
         ]
     ]
