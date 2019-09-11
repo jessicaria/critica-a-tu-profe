@@ -15,6 +15,7 @@ const Materia = {
     },
     Profesores : [Profesor]
 }
+
 const Profesor = {
     NombreProfesor: {
         type: String,
